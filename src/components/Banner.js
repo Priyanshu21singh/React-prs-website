@@ -2,6 +2,7 @@ import { useState,useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 import headerImg from "../assets/img/header-img.svg";
+import prs from "../assets/img/impps.png";
 
 
 export const Banner = () => {
@@ -53,7 +54,7 @@ setDelta(500);
             
             </Col>
             <Col xs={12} md={6} xl={5}>
-            <img src={headerImg} alt='headder-img' />
+            <img className="imgset" src={prs} alt='headder-img' />
 
             </Col>
         </Row>

@@ -253,6 +253,7 @@ opacity: 1;
   
  }
 
+
  .navbar-text button span{
   z-index: 1;
  }
@@ -358,7 +359,30 @@ background-color: #fff;
   height: 40vmin;
   pointer-events: none;
 }
+.keep{
+  color:#666;
+}
+.txtk{
+  color: #666;
+}
+.place{
 
+  margin-top: 140px;
+}
+.pro{
+  font-size: 45px;
+}
+.marg{
+  margin-bottom: 60px;
+}
+.imgset{
+  width: 120%;
+}
+.stdis{
+  display: flex;
+  flex-direction: row;
+  flex: 1
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
