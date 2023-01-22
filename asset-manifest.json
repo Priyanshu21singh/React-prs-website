@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-prs-website/static/css/main.3acfb8ff.css",
+    "main.js": "/React-prs-website/static/js/main.4cf0ad80.js",
+    "static/js/787.88012170.chunk.js": "/React-prs-website/static/js/787.88012170.chunk.js",
+    "static/media/impps.png": "/React-prs-website/static/media/impps.da78433e94e0abf25cb6.png",
+    "static/media/color-sharp.png": "/React-prs-website/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/banner-bg.png": "/React-prs-website/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/React-prs-website/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/web.png": "/React-prs-website/static/media/web.b88e36ad992530ca66c5.png",
+    "static/media/keeper.png": "/React-prs-website/static/media/keeper.2b2241f8be5198d3dbdb.png",
+    "static/media/CentraNo2-Bold.ttf": "/React-prs-website/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/React-prs-website/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/React-prs-website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/React-prs-website/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/React-prs-website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-prs-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/React-prs-website/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/React-prs-website/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/React-prs-website/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/React-prs-website/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/React-prs-website/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon3.svg": "/React-prs-website/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/React-prs-website/index.html",
+    "static/media/nav-icon1.svg": "/React-prs-website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/React-prs-website/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.3acfb8ff.css.map": "/React-prs-website/static/css/main.3acfb8ff.css.map",
+    "main.4cf0ad80.js.map": "/React-prs-website/static/js/main.4cf0ad80.js.map",
+    "787.88012170.chunk.js.map": "/React-prs-website/static/js/787.88012170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3acfb8ff.css",
+    "static/js/main.4cf0ad80.js"
+  ]
+}
